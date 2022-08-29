@@ -315,6 +315,7 @@ main {
 
     .content__content-container--description-container {
         margin-top: 14px;
+        margin-left: 0;
     }
 
     .content__description {
